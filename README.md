@@ -1,5 +1,5 @@
 ----dbms.zip 
-	(Archive file)Contains all the files of the eclipse.(Must be used so that hibernate and gui works.) 
+	(Archive file)Contains all the files of the eclipse.(Must be used so that hibernate and gui works.) \n
 ----src
 	Contains all the ".java" files.
 ----sql
